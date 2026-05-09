@@ -1,20 +1,14 @@
 {
-    "name": "Editor",
+    "name": "MyDataLoaderBasic.Example",
     "rootNamespace": "",
-    "references": [
-        "GUID:dae98f69a58144517a640bc50dd842ee"
-    ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "references": [],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
-    "defineConstraints": [
-        "UNITY_INCLUDE_TESTS"
-    ],
+    "defineConstraints": [],
     "versionDefines": [],
     "noEngineReferences": false
 }
