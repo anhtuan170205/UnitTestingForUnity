@@ -1,0 +1,22 @@
+{
+    "name": "MyDataLoaderAdvanced.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a0f3a5de0cddd4aaa9a31b1ac940b7e0"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
