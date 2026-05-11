@@ -17,7 +17,8 @@ public class MyDataLoaderAdvancedPlayModeTest
             string expectedResult = "DOCTYPE";
 
             UnityWebRequestNetworkService networkService = new UnityWebRequestNetworkService();
-            MyDataLoaderAdvanced myDataLoader = new MyDataLoaderAdvanced();
+            GameObject gameObject = new GameObject();
+            var myDataLoader = gameObject.AddComponent<MyDataLoaderAdvanced>();
             myDataLoader.Initialize(networkService);
 
             string result = "";
