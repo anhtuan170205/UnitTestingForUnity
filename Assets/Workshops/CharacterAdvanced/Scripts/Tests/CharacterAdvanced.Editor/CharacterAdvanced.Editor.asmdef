@@ -1,0 +1,22 @@
+{
+    "name": "CharacterAdvanced.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ad079742022374341af99d356c1e8499"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

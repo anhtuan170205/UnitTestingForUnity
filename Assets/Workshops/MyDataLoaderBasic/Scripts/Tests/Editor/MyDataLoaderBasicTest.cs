@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 public class MyDataLoaderBasicTest
 {
     private const string _url = "https://anhtuan-dev.vercel.app";
-    private const string _imgUrl = "https://i.ibb.co/RpHxPhQL/homelanderisinnocent.jpg";
+    private const string _imgUrl = "https://i.ibb.co/kgxYhkfn/dumbjumper.png";
 
     [Test]
     public async Task LoadAsync_ResultContainsDOCTYPE_WhenIsLoaded()

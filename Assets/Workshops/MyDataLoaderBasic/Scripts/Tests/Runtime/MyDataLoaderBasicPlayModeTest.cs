@@ -7,7 +7,7 @@ using UnityEngine.TestTools;
 public class MyDataLoaderBasicPlayModeTest
 {
     private const string _url = "https://anhtuan-dev.vercel.app";
-    private const string _imgUrl = "https://i.ibb.co/RpHxPhQL/homelanderisinnocent.jpg";
+    private const string _imgUrl = "https://i.ibb.co/kgxYhkfn/dumbjumper.png";
 
     [UnityTest]
     public IEnumerator LoadAsync_ResultContainsDOCTYPE_WhenIsLoaded()
