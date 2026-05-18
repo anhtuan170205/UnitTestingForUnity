@@ -1,0 +1,22 @@
+{
+    "name": "CharacterPhsysics.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ec825d92e96334aac999478ab2138d64"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
