@@ -1,0 +1,22 @@
+{
+    "name": "PrefabLoading.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:abb26ec44ee604f0c8af736ec144af1a"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
