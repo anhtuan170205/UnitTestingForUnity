@@ -1,0 +1,16 @@
+{
+    "name": "SceneLoading.Example",
+    "rootNamespace": "",
+    "references": [
+        "GUID:abb26ec44ee604f0c8af736ec144af1a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

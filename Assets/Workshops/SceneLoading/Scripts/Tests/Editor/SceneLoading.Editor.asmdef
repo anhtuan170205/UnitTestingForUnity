@@ -1,0 +1,22 @@
+{
+    "name": "SceneLoading.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a0270c0b2710c48b582ed62ebb3dd61e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
